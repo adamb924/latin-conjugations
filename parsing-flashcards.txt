@@ -1,0 +1,645 @@
+form	parsing	GrammaticalInfo
+am<span class="suffix">ā</span>	Singular Active Imperative	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">ābam</span>	1sg Imperfect Active Indicative	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">ābāminī</span>	2pl Imperfect Passive Indicative	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">ābāmur</span>	1pl Imperfect Passive Indicative	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">ābāmus</span>	1pl Imperfect Active Indicative	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">ābant</span>	3pl Imperfect Active Indicative	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">ābantur</span>	3pl Imperfect Passive Indicative	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">ābar</span>	1sg Imperfect Passive Indicative	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">ābāris</span>	2sg Imperfect Passive Indicative	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">ābās</span>	2sg Imperfect Active Indicative	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">ābat</span>	3sg Imperfect Active Indicative	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">ābātis</span>	2pl Imperfect Active Indicative	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">ābātur</span>	3sg Imperfect Passive Indicative	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">āberis</span>	2sg Future Passive Indicative	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">ābiminī</span>	2pl Future Passive Indicative	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">ābimur</span>	1pl Future Passive Indicative	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">ābimus</span>	1pl Future Active Indicative	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">ābis</span>	2sg Future Active Indicative	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">ābit</span>	3sg Future Active Indicative	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">ābitis</span>	2pl Future Active Indicative	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">ābitur</span>	3sg Future Passive Indicative	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">ābō</span>	1sg Future Active Indicative	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">ābor</span>	1sg Future Passive Indicative	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">ābunt</span>	3pl Future Active Indicative	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">ābuntur</span>	3pl Future Passive Indicative	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">āminī</span>	2pl Present Passive Indicative<br/>Plural Passive Imperative	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">āmur</span>	1pl Present Passive Indicative	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">āmus</span>	1pl Present Active Indicative	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">andī</span>	Gerund, Genitive case	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">andō</span>	Gerund, Dative case<br/>Gerund, Ablative case	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">andum</span>	Gerund, Accusative case	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">andus</span>	Future Passive Participle	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">āns</span>	Present Active Participle	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">ant</span>	3pl Present Active Indicative	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">antur</span>	3pl Present Passive Indicative	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">āre</span>	Present Active Infinitive<br/>Singular Passive Imperative	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">ārem</span>	1sg Imperfect Active Subjunctive	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">ārēminī</span>	2pl Imperfect Passive Subjunctive	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">ārēmur</span>	1pl Imperfect Passive Subjunctive	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">ārēmus</span>	1pl Imperfect Active Subjunctive	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">ārent</span>	3pl Imperfect Active Subjunctive	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">ārentur</span>	3pl Imperfect Passive Subjunctive	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">ārer</span>	1sg Imperfect Passive Subjunctive	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">ārēris</span>	2sg Imperfect Passive Subjunctive	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">ārēs</span>	2sg Imperfect Active Subjunctive	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">āret</span>	3sg Imperfect Active Subjunctive	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">ārētis</span>	2pl Imperfect Active Subjunctive	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">ārētur</span>	3sg Imperfect Passive Subjunctive	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">ārī</span>	Present Passive Infinitive	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">āris</span>	2sg Present Passive Indicative	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">ās</span>	2sg Present Active Indicative	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">at</span>	3sg Present Active Indicative	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">āte</span>	Plural Active Imperative	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">ātis</span>	2pl Present Active Indicative	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">ātur</span>	3sg Present Passive Indicative	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">em</span>	1sg Present Active Subjunctive	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">ēminī</span>	2pl Present Passive Subjunctive	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">ēmur</span>	1pl Present Passive Subjunctive	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">ēmus</span>	1pl Present Active Subjunctive	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">ent</span>	3pl Present Active Subjunctive	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">entur</span>	3pl Present Passive Subjunctive	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">er</span>	1sg Present Passive Subjunctive	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">ēris</span>	2sg Present Passive Subjunctive	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">ēs</span>	2sg Present Active Subjunctive	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">et</span>	3sg Present Active Subjunctive	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">ētis</span>	2pl Present Active Subjunctive	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">ētur</span>	3sg Present Passive Subjunctive	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">ō</span>	1sg Present Active Indicative	1st conjugation, am<span class="suffix">ō</span>
+am<span class="suffix">or</span>	1sg Present Passive Indicative	1st conjugation, am<span class="suffix">ō</span>
+amāt<span class="suffix">ī erāmus</span>	1pl Pluperfect Passive Indicative	1st conjugation, am<span class="suffix">ō</span>
+amāt<span class="suffix">ī erant</span>	3pl Pluperfect Passive Indicative	1st conjugation, am<span class="suffix">ō</span>
+amāt<span class="suffix">ī erātis</span>	2pl Pluperfect Passive Indicative	1st conjugation, am<span class="suffix">ō</span>
+amāt<span class="suffix">ī erimus</span>	1pl Future Perfect Passive Indicative	1st conjugation, am<span class="suffix">ō</span>
+amāt<span class="suffix">ī eritis</span>	2pl Future Perfect Passive Indicative	1st conjugation, am<span class="suffix">ō</span>
+amāt<span class="suffix">ī erunt</span>	3pl Future Perfect Passive Indicative	1st conjugation, am<span class="suffix">ō</span>
+amāt<span class="suffix">ī essēmus</span>	1pl Pluperfect Passive Subjunctive	1st conjugation, am<span class="suffix">ō</span>
+amāt<span class="suffix">ī essent</span>	3pl Pluperfect Passive Subjunctive	1st conjugation, am<span class="suffix">ō</span>
+amāt<span class="suffix">ī essētis</span>	2pl Pluperfect Passive Subjunctive	1st conjugation, am<span class="suffix">ō</span>
+amāt<span class="suffix">ī estis</span>	2pl Perfect Passive Indicative	1st conjugation, am<span class="suffix">ō</span>
+amāt<span class="suffix">ī sīmus</span>	1pl Perfect Passive Subjunctive	1st conjugation, am<span class="suffix">ō</span>
+amāt<span class="suffix">ī sint</span>	3pl Perfect Passive Subjunctive	1st conjugation, am<span class="suffix">ō</span>
+amāt<span class="suffix">ī sītis</span>	2pl Perfect Passive Subjunctive	1st conjugation, am<span class="suffix">ō</span>
+amāt<span class="suffix">ī sumus</span>	1pl Perfect Passive Indicative	1st conjugation, am<span class="suffix">ō</span>
+amāt<span class="suffix">ī sunt</span>	3pl Perfect Passive Indicative	1st conjugation, am<span class="suffix">ō</span>
+amāt<span class="suffix">um īrī</span>	Future Passive Infinitive	1st conjugation, am<span class="suffix">ō</span>
+amāt<span class="suffix">ūrus esse</span>	Future Active Infinitive	1st conjugation, am<span class="suffix">ō</span>
+amāt<span class="suffix">ūrus</span>	Future Active Participle	1st conjugation, am<span class="suffix">ō</span>
+amāt<span class="suffix">us eram</span>	1sg Pluperfect Passive Indicative	1st conjugation, am<span class="suffix">ō</span>
+amāt<span class="suffix">us erās</span>	2sg Pluperfect Passive Indicative	1st conjugation, am<span class="suffix">ō</span>
+amāt<span class="suffix">us erat</span>	3sg Pluperfect Passive Indicative	1st conjugation, am<span class="suffix">ō</span>
+amāt<span class="suffix">us eris</span>	2sg Future Perfect Passive Indicative	1st conjugation, am<span class="suffix">ō</span>
+amāt<span class="suffix">us erit</span>	3sg Future Perfect Passive Indicative	1st conjugation, am<span class="suffix">ō</span>
+amāt<span class="suffix">us erō</span>	1sg Future Perfect Passive Indicative	1st conjugation, am<span class="suffix">ō</span>
+amāt<span class="suffix">us es</span>	2sg Perfect Passive Indicative	1st conjugation, am<span class="suffix">ō</span>
+amāt<span class="suffix">us esse</span>	Perfect Passive Infinitive	1st conjugation, am<span class="suffix">ō</span>
+amāt<span class="suffix">us essem</span>	1sg Pluperfect Passive Subjunctive	1st conjugation, am<span class="suffix">ō</span>
+amāt<span class="suffix">us essēs</span>	2sg Pluperfect Passive Subjunctive	1st conjugation, am<span class="suffix">ō</span>
+amāt<span class="suffix">us esset</span>	3sg Pluperfect Passive Subjunctive	1st conjugation, am<span class="suffix">ō</span>
+amāt<span class="suffix">us est</span>	3sg Perfect Passive Indicative	1st conjugation, am<span class="suffix">ō</span>
+amāt<span class="suffix">us sim</span>	1sg Perfect Passive Subjunctive	1st conjugation, am<span class="suffix">ō</span>
+amāt<span class="suffix">us sīs</span>	2sg Perfect Passive Subjunctive	1st conjugation, am<span class="suffix">ō</span>
+amāt<span class="suffix">us sit</span>	3sg Perfect Passive Subjunctive	1st conjugation, am<span class="suffix">ō</span>
+amāt<span class="suffix">us sum</span>	1sg Perfect Passive Indicative	1st conjugation, am<span class="suffix">ō</span>
+amāt<span class="suffix">us</span>	Perfect Passive Participle	1st conjugation, am<span class="suffix">ō</span>
+amāv<span class="suffix">eram</span>	1sg Pluperfect Active Indicative	1st conjugation, am<span class="suffix">ō</span>
+amāv<span class="suffix">erāmus</span>	1pl Pluperfect Active Indicative	1st conjugation, am<span class="suffix">ō</span>
+amāv<span class="suffix">erant</span>	3pl Pluperfect Active Indicative	1st conjugation, am<span class="suffix">ō</span>
+amāv<span class="suffix">erās</span>	2sg Pluperfect Active Indicative	1st conjugation, am<span class="suffix">ō</span>
+amāv<span class="suffix">erat</span>	3sg Pluperfect Active Indicative	1st conjugation, am<span class="suffix">ō</span>
+amāv<span class="suffix">erātis</span>	2pl Pluperfect Active Indicative	1st conjugation, am<span class="suffix">ō</span>
+amāv<span class="suffix">erim</span>	1sg Perfect Active Subjunctive	1st conjugation, am<span class="suffix">ō</span>
+amāv<span class="suffix">erimus</span>	1pl Future Perfect Active Indicative<br/>1pl Perfect Active Subjunctive	1st conjugation, am<span class="suffix">ō</span>
+amāv<span class="suffix">erint</span>	3pl Future Perfect Active Indicative<br/>3pl Perfect Active Subjunctive	1st conjugation, am<span class="suffix">ō</span>
+amāv<span class="suffix">eris</span>	2sg Future Perfect Active Indicative<br/>2sg Perfect Active Subjunctive	1st conjugation, am<span class="suffix">ō</span>
+amāv<span class="suffix">erit</span>	3sg Future Perfect Active Indicative<br/>3sg Perfect Active Subjunctive	1st conjugation, am<span class="suffix">ō</span>
+amāv<span class="suffix">eritis</span>	2pl Future Perfect Active Indicative<br/>2pl Perfect Active Subjunctive+B109	1st conjugation, am<span class="suffix">ō</span>
+amāv<span class="suffix">erō</span>	1sg Future Perfect Active Indicative	1st conjugation, am<span class="suffix">ō</span>
+amāv<span class="suffix">ērunt</span>	3pl Perfect Active Indicative	1st conjugation, am<span class="suffix">ō</span>
+amāv<span class="suffix">ī</span>	1sg Perfect Active Indicative	1st conjugation, am<span class="suffix">ō</span>
+amāv<span class="suffix">imus</span>	1pl Perfect Active Indicative	1st conjugation, am<span class="suffix">ō</span>
+amāv<span class="suffix">isse</span>	Perfect Active Infinitive	1st conjugation, am<span class="suffix">ō</span>
+amāv<span class="suffix">issem</span>	1sg Pluperfect Active Subjunctive	1st conjugation, am<span class="suffix">ō</span>
+amāv<span class="suffix">issēmus</span>	1pl Pluperfect Active Subjunctive	1st conjugation, am<span class="suffix">ō</span>
+amāv<span class="suffix">issent</span>	3pl Pluperfect Active Subjunctive	1st conjugation, am<span class="suffix">ō</span>
+amāv<span class="suffix">issēs</span>	2sg Pluperfect Active Subjunctive	1st conjugation, am<span class="suffix">ō</span>
+amāv<span class="suffix">isset</span>	3sg Pluperfect Active Subjunctive	1st conjugation, am<span class="suffix">ō</span>
+amāv<span class="suffix">issētis</span>	2pl Pluperfect Active Subjunctive	1st conjugation, am<span class="suffix">ō</span>
+amāv<span class="suffix">istī</span>	2sg Perfect Active Indicative	1st conjugation, am<span class="suffix">ō</span>
+amāv<span class="suffix">istis</span>	2pl Perfect Active Indicative	1st conjugation, am<span class="suffix">ō</span>
+amāv<span class="suffix">it</span>	3sg Perfect Active Indicative	1st conjugation, am<span class="suffix">ō</span>
+aud<span class="suffix">ī</span>	Singular Active Imperative	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">iam</span>	1sg Future Active Indicative<br/>1sg Present Active Subjunctive	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">iāminī</span>	2pl Present Passive Subjunctive	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">iāmur</span>	1pl Present Passive Subjunctive	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">iāmus</span>	1pl Present Active Subjunctive	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">iant</span>	3pl Present Active Subjunctive	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">iantur</span>	3pl Present Passive Subjunctive	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">iar</span>	1sg Future Passive Indicative<br/>1sg Present Passive Subjunctive	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">iāris</span>	2sg Present Passive Subjunctive	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">iās</span>	2sg Present Active Subjunctive	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">iat</span>	3sg Present Active Subjunctive	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">iātis</span>	2pl Present Active Subjunctive	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">iātur</span>	3sg Present Passive Subjunctive	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">iēbam</span>	1sg Imperfect Active Indicative	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">iēbāminī</span>	2pl Imperfect Passive Indicative	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">iēbāmur</span>	1pl Imperfect Passive Indicative	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">iēbāmus</span>	1pl Imperfect Active Indicative	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">iēbant</span>	3pl Imperfect Active Indicative	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">iēbantur</span>	3pl Imperfect Passive Indicative	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">iēbar</span>	1sg Imperfect Passive Indicative	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">iēbāris</span>	2sg Imperfect Passive Indicative	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">iēbās</span>	2sg Imperfect Active Indicative	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">iēbat</span>	3sg Imperfect Active Indicative	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">iēbātis</span>	2pl Imperfect Active Indicative	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">iēbātur</span>	3sg Imperfect Passive Indicative	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">iēminī</span>	2pl Future Passive Indicative	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">iēmur</span>	1pl Future Passive Indicative	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">iēmus</span>	1pl Future Active Indicative	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">iendī</span>	Gerund, Genitive case	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">iendō</span>	Gerund, Dative case<br/>Gerund, Ablative case	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">iendum</span>	Gerund, Accusative case	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">iendus</span>	Future Passive Participle	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">iēns</span>	Present Active Participle	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">ient</span>	3pl Future Active Indicative	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">ientur</span>	3pl Future Passive Indicative	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">iēris</span>	2sg Future Passive Indicative	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">iēs</span>	2sg Future Active Indicative	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">iet</span>	3sg Future Active Indicative	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">iētis</span>	2pl Future Active Indicative	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">iētur</span>	3sg Future Passive Indicative	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">īminī</span>	2pl Present Passive Indicative<br/>Plural Passive Imperative	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">īmur</span>	1pl Present Passive Indicative	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">īmus</span>	1pl Present Active Indicative	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">iō</span>	1sg Present Active Indicative	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">ior</span>	1sg Present Passive Indicative	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">īre</span>	Present Active Infinitive<br/>Singular Passive Imperative	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">īrem</span>	1sg Imperfect Active Subjunctive	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">īrēminī</span>	2pl Imperfect Passive Subjunctive	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">īrēmur</span>	1pl Imperfect Passive Subjunctive	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">īrēmus</span>	1pl Imperfect Active Subjunctive	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">īrent</span>	3pl Imperfect Active Subjunctive	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">īrentur</span>	3pl Imperfect Passive Subjunctive	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">īrer</span>	1sg Imperfect Passive Subjunctive	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">īrēris</span>	2sg Imperfect Passive Subjunctive	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">īrēs</span>	2sg Imperfect Active Subjunctive	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">īret</span>	3sg Imperfect Active Subjunctive	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">īrētis</span>	2pl Imperfect Active Subjunctive	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">īrētur</span>	3sg Imperfect Passive Subjunctive	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">īrī</span>	Present Passive Infinitive	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">īris</span>	2sg Present Passive Indicative	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">īs</span>	2sg Present Active Indicative	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">it</span>	3sg Present Active Indicative	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">īte</span>	Plural Active Imperative	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">ītis</span>	2pl Present Active Indicative	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">ītur</span>	3sg Present Passive Indicative	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">iunt</span>	3pl Present Active Indicative	4th conjugation, aud<span class="suffix">iō</span>
+aud<span class="suffix">iuntur</span>	3pl Present Passive Indicative	4th conjugation, aud<span class="suffix">iō</span>
+audīt<span class="suffix">ī erāmus</span>	1pl Pluperfect Passive Indicative	4th conjugation, aud<span class="suffix">iō</span>
+audīt<span class="suffix">ī erant</span>	3pl Pluperfect Passive Indicative	4th conjugation, aud<span class="suffix">iō</span>
+audīt<span class="suffix">ī erātis</span>	2pl Pluperfect Passive Indicative	4th conjugation, aud<span class="suffix">iō</span>
+audīt<span class="suffix">ī erimus</span>	1pl Future Perfect Passive Indicative	4th conjugation, aud<span class="suffix">iō</span>
+audīt<span class="suffix">ī eritis</span>	2pl Future Perfect Passive Indicative	4th conjugation, aud<span class="suffix">iō</span>
+audīt<span class="suffix">ī erunt</span>	3pl Future Perfect Passive Indicative	4th conjugation, aud<span class="suffix">iō</span>
+audīt<span class="suffix">ī essēmus</span>	1pl Pluperfect Passive Subjunctive	4th conjugation, aud<span class="suffix">iō</span>
+audīt<span class="suffix">ī essent</span>	3pl Pluperfect Passive Subjunctive	4th conjugation, aud<span class="suffix">iō</span>
+audīt<span class="suffix">ī essētis</span>	2pl Pluperfect Passive Subjunctive	4th conjugation, aud<span class="suffix">iō</span>
+audīt<span class="suffix">ī estis</span>	2pl Perfect Passive Indicative	4th conjugation, aud<span class="suffix">iō</span>
+audīt<span class="suffix">ī sīmus</span>	1pl Perfect Passive Subjunctive	4th conjugation, aud<span class="suffix">iō</span>
+audīt<span class="suffix">ī sint</span>	3pl Perfect Passive Subjunctive	4th conjugation, aud<span class="suffix">iō</span>
+audīt<span class="suffix">ī sītis</span>	2pl Perfect Passive Subjunctive	4th conjugation, aud<span class="suffix">iō</span>
+audīt<span class="suffix">ī sumus</span>	1pl Perfect Passive Indicative	4th conjugation, aud<span class="suffix">iō</span>
+audīt<span class="suffix">ī sunt</span>	3pl Perfect Passive Indicative	4th conjugation, aud<span class="suffix">iō</span>
+audīt<span class="suffix">um īrī</span>	Future Passive Infinitive	4th conjugation, aud<span class="suffix">iō</span>
+audīt<span class="suffix">ūrus esse</span>	Future Active Infinitive	4th conjugation, aud<span class="suffix">iō</span>
+audīt<span class="suffix">ūrus</span>	Future Active Participle	4th conjugation, aud<span class="suffix">iō</span>
+audīt<span class="suffix">us eram</span>	1sg Pluperfect Passive Indicative	4th conjugation, aud<span class="suffix">iō</span>
+audīt<span class="suffix">us erās</span>	2sg Pluperfect Passive Indicative	4th conjugation, aud<span class="suffix">iō</span>
+audīt<span class="suffix">us erat</span>	3sg Pluperfect Passive Indicative	4th conjugation, aud<span class="suffix">iō</span>
+audīt<span class="suffix">us eris</span>	2sg Future Perfect Passive Indicative	4th conjugation, aud<span class="suffix">iō</span>
+audīt<span class="suffix">us erit</span>	3sg Future Perfect Passive Indicative	4th conjugation, aud<span class="suffix">iō</span>
+audīt<span class="suffix">us erō</span>	1sg Future Perfect Passive Indicative	4th conjugation, aud<span class="suffix">iō</span>
+audīt<span class="suffix">us es</span>	2sg Perfect Passive Indicative	4th conjugation, aud<span class="suffix">iō</span>
+audīt<span class="suffix">us esse</span>	Perfect Passive Infinitive	4th conjugation, aud<span class="suffix">iō</span>
+audīt<span class="suffix">us essem</span>	1sg Pluperfect Passive Subjunctive	4th conjugation, aud<span class="suffix">iō</span>
+audīt<span class="suffix">us essēs</span>	2sg Pluperfect Passive Subjunctive	4th conjugation, aud<span class="suffix">iō</span>
+audīt<span class="suffix">us esset</span>	3sg Pluperfect Passive Subjunctive	4th conjugation, aud<span class="suffix">iō</span>
+audīt<span class="suffix">us est</span>	3sg Perfect Passive Indicative	4th conjugation, aud<span class="suffix">iō</span>
+audīt<span class="suffix">us sim</span>	1sg Perfect Passive Subjunctive	4th conjugation, aud<span class="suffix">iō</span>
+audīt<span class="suffix">us sīs</span>	2sg Perfect Passive Subjunctive	4th conjugation, aud<span class="suffix">iō</span>
+audīt<span class="suffix">us sit</span>	3sg Perfect Passive Subjunctive	4th conjugation, aud<span class="suffix">iō</span>
+audīt<span class="suffix">us sum</span>	1sg Perfect Passive Indicative	4th conjugation, aud<span class="suffix">iō</span>
+audīt<span class="suffix">us</span>	Perfect Passive Participle	4th conjugation, aud<span class="suffix">iō</span>
+audīv<span class="suffix">eram</span>	1sg Pluperfect Active Indicative	4th conjugation, aud<span class="suffix">iō</span>
+audīv<span class="suffix">erāmus</span>	1pl Pluperfect Active Indicative	4th conjugation, aud<span class="suffix">iō</span>
+audīv<span class="suffix">erant</span>	3pl Pluperfect Active Indicative	4th conjugation, aud<span class="suffix">iō</span>
+audīv<span class="suffix">erās</span>	2sg Pluperfect Active Indicative	4th conjugation, aud<span class="suffix">iō</span>
+audīv<span class="suffix">erat</span>	3sg Pluperfect Active Indicative	4th conjugation, aud<span class="suffix">iō</span>
+audīv<span class="suffix">erātis</span>	2pl Pluperfect Active Indicative	4th conjugation, aud<span class="suffix">iō</span>
+audīv<span class="suffix">erim</span>	1sg Perfect Active Subjunctive	4th conjugation, aud<span class="suffix">iō</span>
+audīv<span class="suffix">erimus</span>	1pl Future Perfect Active Indicative<br/>1pl Perfect Active Subjunctive	4th conjugation, aud<span class="suffix">iō</span>
+audīv<span class="suffix">erint</span>	3pl Future Perfect Active Indicative<br/>3pl Perfect Active Subjunctive	4th conjugation, aud<span class="suffix">iō</span>
+audīv<span class="suffix">eris</span>	2sg Future Perfect Active Indicative<br/>2sg Perfect Active Subjunctive	4th conjugation, aud<span class="suffix">iō</span>
+audīv<span class="suffix">erit</span>	3sg Future Perfect Active Indicative<br/>3sg Perfect Active Subjunctive	4th conjugation, aud<span class="suffix">iō</span>
+audīv<span class="suffix">eritis</span>	2pl Future Perfect Active Indicative<br/>2pl Perfect Active Subjunctive	4th conjugation, aud<span class="suffix">iō</span>
+audīv<span class="suffix">erō</span>	1sg Future Perfect Active Indicative	4th conjugation, aud<span class="suffix">iō</span>
+audīv<span class="suffix">ērunt</span>	3pl Perfect Active Indicative	4th conjugation, aud<span class="suffix">iō</span>
+audīv<span class="suffix">ī</span>	1sg Perfect Active Indicative	4th conjugation, aud<span class="suffix">iō</span>
+audīv<span class="suffix">imus</span>	1pl Perfect Active Indicative	4th conjugation, aud<span class="suffix">iō</span>
+audīv<span class="suffix">isse</span>	Perfect Active Infinitive	4th conjugation, aud<span class="suffix">iō</span>
+audīv<span class="suffix">issem</span>	1sg Pluperfect Active Subjunctive	4th conjugation, aud<span class="suffix">iō</span>
+audīv<span class="suffix">issēmus</span>	1pl Pluperfect Active Subjunctive	4th conjugation, aud<span class="suffix">iō</span>
+audīv<span class="suffix">issent</span>	3pl Pluperfect Active Subjunctive	4th conjugation, aud<span class="suffix">iō</span>
+audīv<span class="suffix">issēs</span>	2sg Pluperfect Active Subjunctive	4th conjugation, aud<span class="suffix">iō</span>
+audīv<span class="suffix">isset</span>	3sg Pluperfect Active Subjunctive	4th conjugation, aud<span class="suffix">iō</span>
+audīv<span class="suffix">issētis</span>	2pl Pluperfect Active Subjunctive	4th conjugation, aud<span class="suffix">iō</span>
+audīv<span class="suffix">istī</span>	2sg Perfect Active Indicative	4th conjugation, aud<span class="suffix">iō</span>
+audīv<span class="suffix">istis</span>	2pl Perfect Active Indicative	4th conjugation, aud<span class="suffix">iō</span>
+audīv<span class="suffix">it</span>	3sg Perfect Active Indicative	4th conjugation, aud<span class="suffix">iō</span>
+dūc	Singular Active Imperative	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">am</span>	1sg Future Active Indicative<br/>1sg Present Active Subjunctive	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">āminī</span>	2pl Present Passive Subjunctive	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">āmur</span>	1pl Present Passive Subjunctive	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">āmus</span>	1pl Present Active Subjunctive	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">ant</span>	3pl Present Active Subjunctive	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">antur</span>	3pl Present Passive Subjunctive	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">ar</span>	1sg Future Passive Indicative<br/>1sg Present Passive Subjunctive	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">āris</span>	2sg Present Passive Subjunctive	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">ās</span>	2sg Present Active Subjunctive	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">at</span>	3sg Present Active Subjunctive	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">ātis</span>	2pl Present Active Subjunctive	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">ātur</span>	3sg Present Passive Subjunctive	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">ēbam</span>	1sg Imperfect Active Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">ēbāminī</span>	2pl Imperfect Passive Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">ēbāmur</span>	1pl Imperfect Passive Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">ēbāmus</span>	1pl Imperfect Active Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">ēbant</span>	3pl Imperfect Active Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">ēbantur</span>	3pl Imperfect Passive Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">ēbar</span>	1sg Imperfect Passive Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">ēbāris</span>	2sg Imperfect Passive Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">ēbās</span>	2sg Imperfect Active Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">ēbat</span>	3sg Imperfect Active Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">ēbātis</span>	2pl Imperfect Active Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">ēbātur</span>	3sg Imperfect Passive Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">ēminī</span>	2pl Future Passive Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">ēmur</span>	1pl Future Passive Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">ēmus</span>	1pl Future Active Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">endī</span>	Gerund, Genitive case	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">endō</span>	Gerund, Dative case<br/>Gerund, Ablative case	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">endum</span>	Gerund, Accusative case	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">endus</span>	Future Passive Participle	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">ēns</span>	Present Active Participle	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">ent</span>	3pl Future Active Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">entur</span>	3pl Future Passive Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">ere</span>	Present Active Infinitive<br/>Singular Passive Imperative	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">erem</span>	1sg Imperfect Active Subjunctive	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">erēminī</span>	2pl Imperfect Passive Subjunctive	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">erēmur</span>	1pl Imperfect Passive Subjunctive	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">erēmus</span>	1pl Imperfect Active Subjunctive	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">erent</span>	3pl Imperfect Active Subjunctive	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">erentur</span>	3pl Imperfect Passive Subjunctive	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">erer</span>	1sg Imperfect Passive Subjunctive	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">erēris</span>	2sg Imperfect Passive Subjunctive	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">erēs</span>	2sg Imperfect Active Subjunctive	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">eret</span>	3sg Imperfect Active Subjunctive	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">erētis</span>	2pl Imperfect Active Subjunctive	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">erētur</span>	3sg Imperfect Passive Subjunctive	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">eris</span>	2sg Present Passive Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">ēris</span>	2sg Future Passive Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">ēs</span>	2sg Future Active Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">et</span>	3sg Future Active Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">ētis</span>	2pl Future Active Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">ētur</span>	3sg Future Passive Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">ī</span>	Present Passive Infinitive	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">iminī</span>	2pl Present Passive Indicative<br/>Plural Passive Imperative	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">imur</span>	1pl Present Passive Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">imus</span>	1pl Present Active Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">is</span>	2sg Present Active Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">it</span>	3sg Present Active Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">ite</span>	Plural Active Imperative	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">itis</span>	2pl Present Active Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">itur</span>	3sg Present Passive Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">ō</span>	1sg Present Active Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">or</span>	1sg Present Passive Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">unt</span>	3pl Present Active Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+dūc<span class="suffix">untur</span>	3pl Present Passive Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+duct<span class="suffix">ī erāmus</span>	1pl Pluperfect Passive Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+duct<span class="suffix">ī erant</span>	3pl Pluperfect Passive Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+duct<span class="suffix">ī erātis</span>	2pl Pluperfect Passive Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+duct<span class="suffix">ī erimus</span>	1pl Future Perfect Passive Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+duct<span class="suffix">ī eritis</span>	2pl Future Perfect Passive Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+duct<span class="suffix">ī erunt</span>	3pl Future Perfect Passive Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+duct<span class="suffix">ī essēmus</span>	1pl Pluperfect Passive Subjunctive	3rd conjugation, dūc<span class="suffix">ō</span>
+duct<span class="suffix">ī essent</span>	3pl Pluperfect Passive Subjunctive	3rd conjugation, dūc<span class="suffix">ō</span>
+duct<span class="suffix">ī essētis</span>	2pl Pluperfect Passive Subjunctive	3rd conjugation, dūc<span class="suffix">ō</span>
+duct<span class="suffix">ī estis</span>	2pl Perfect Passive Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+duct<span class="suffix">ī sīmus</span>	1pl Perfect Passive Subjunctive	3rd conjugation, dūc<span class="suffix">ō</span>
+duct<span class="suffix">ī sint</span>	3pl Perfect Passive Subjunctive	3rd conjugation, dūc<span class="suffix">ō</span>
+duct<span class="suffix">ī sītis</span>	2pl Perfect Passive Subjunctive	3rd conjugation, dūc<span class="suffix">ō</span>
+duct<span class="suffix">ī sumus</span>	1pl Perfect Passive Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+duct<span class="suffix">ī sunt</span>	3pl Perfect Passive Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+duct<span class="suffix">um īrī</span>	Future Passive Infinitive	3rd conjugation, dūc<span class="suffix">ō</span>
+duct<span class="suffix">ūrus esse</span>	Future Active Infinitive	3rd conjugation, dūc<span class="suffix">ō</span>
+duct<span class="suffix">ūrus</span>	Future Active Participle	3rd conjugation, dūc<span class="suffix">ō</span>
+duct<span class="suffix">us eram</span>	1sg Pluperfect Passive Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+duct<span class="suffix">us erās</span>	2sg Pluperfect Passive Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+duct<span class="suffix">us erat</span>	3sg Pluperfect Passive Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+duct<span class="suffix">us eris</span>	2sg Future Perfect Passive Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+duct<span class="suffix">us erit</span>	3sg Future Perfect Passive Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+duct<span class="suffix">us erō</span>	1sg Future Perfect Passive Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+duct<span class="suffix">us es</span>	2sg Perfect Passive Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+duct<span class="suffix">us esse</span>	Perfect Passive Infinitive	3rd conjugation, dūc<span class="suffix">ō</span>
+duct<span class="suffix">us essem</span>	1sg Pluperfect Passive Subjunctive	3rd conjugation, dūc<span class="suffix">ō</span>
+duct<span class="suffix">us essēs</span>	2sg Pluperfect Passive Subjunctive	3rd conjugation, dūc<span class="suffix">ō</span>
+duct<span class="suffix">us esset</span>	3sg Pluperfect Passive Subjunctive	3rd conjugation, dūc<span class="suffix">ō</span>
+duct<span class="suffix">us est</span>	3sg Perfect Passive Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+duct<span class="suffix">us sim</span>	1sg Perfect Passive Subjunctive	3rd conjugation, dūc<span class="suffix">ō</span>
+duct<span class="suffix">us sīs</span>	2sg Perfect Passive Subjunctive	3rd conjugation, dūc<span class="suffix">ō</span>
+duct<span class="suffix">us sit</span>	3sg Perfect Passive Subjunctive	3rd conjugation, dūc<span class="suffix">ō</span>
+duct<span class="suffix">us sum</span>	1sg Perfect Passive Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+duct<span class="suffix">us</span>	Perfect Passive Participle	3rd conjugation, dūc<span class="suffix">ō</span>
+dūx<span class="suffix">eram</span>	1sg Pluperfect Active Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+dūx<span class="suffix">erāmus</span>	1pl Pluperfect Active Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+dūx<span class="suffix">erant</span>	3pl Pluperfect Active Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+dūx<span class="suffix">erās</span>	2sg Pluperfect Active Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+dūx<span class="suffix">erat</span>	3sg Pluperfect Active Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+dūx<span class="suffix">erātis</span>	2pl Pluperfect Active Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+dūx<span class="suffix">erim</span>	1sg Perfect Active Subjunctive	3rd conjugation, dūc<span class="suffix">ō</span>
+dūx<span class="suffix">erimus</span>	1pl Future Perfect Active Indicative<br/>1pl Perfect Active Subjunctive	3rd conjugation, dūc<span class="suffix">ō</span>
+dūx<span class="suffix">erint</span>	3pl Future Perfect Active Indicative<br/>3pl Perfect Active Subjunctive	3rd conjugation, dūc<span class="suffix">ō</span>
+dūx<span class="suffix">eris</span>	2sg Future Perfect Active Indicative<br/>2sg Perfect Active Subjunctive	3rd conjugation, dūc<span class="suffix">ō</span>
+dūx<span class="suffix">erit</span>	3sg Future Perfect Active Indicative<br/>3sg Perfect Active Subjunctive	3rd conjugation, dūc<span class="suffix">ō</span>
+dūx<span class="suffix">eritis</span>	2pl Future Perfect Active Indicative<br/>2pl Perfect Active Subjunctive	3rd conjugation, dūc<span class="suffix">ō</span>
+dūx<span class="suffix">erō</span>	1sg Future Perfect Active Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+dūx<span class="suffix">ērunt</span>	3pl Perfect Active Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+dūx<span class="suffix">ī</span>	1sg Perfect Active Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+dūx<span class="suffix">imus</span>	1pl Perfect Active Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+dūx<span class="suffix">isse</span>	Perfect Active Infinitive	3rd conjugation, dūc<span class="suffix">ō</span>
+dūx<span class="suffix">issem</span>	1sg Pluperfect Active Subjunctive	3rd conjugation, dūc<span class="suffix">ō</span>
+dūx<span class="suffix">issēmus</span>	1pl Pluperfect Active Subjunctive	3rd conjugation, dūc<span class="suffix">ō</span>
+dūx<span class="suffix">issent</span>	3pl Pluperfect Active Subjunctive	3rd conjugation, dūc<span class="suffix">ō</span>
+dūx<span class="suffix">issēs</span>	2sg Pluperfect Active Subjunctive	3rd conjugation, dūc<span class="suffix">ō</span>
+dūx<span class="suffix">isset</span>	3sg Pluperfect Active Subjunctive	3rd conjugation, dūc<span class="suffix">ō</span>
+dūx<span class="suffix">issētis</span>	2pl Pluperfect Active Subjunctive	3rd conjugation, dūc<span class="suffix">ō</span>
+dūx<span class="suffix">istī</span>	2sg Perfect Active Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+dūx<span class="suffix">istis</span>	2pl Perfect Active Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+dūx<span class="suffix">it</span>	3sg Perfect Active Indicative	3rd conjugation, dūc<span class="suffix">ō</span>
+incēp<span class="suffix">eram</span>	1sg Pluperfect Active Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incēp<span class="suffix">erāmus</span>	1pl Pluperfect Active Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incēp<span class="suffix">erant</span>	3pl Pluperfect Active Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incēp<span class="suffix">erās</span>	2sg Pluperfect Active Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incēp<span class="suffix">erat</span>	3sg Pluperfect Active Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incēp<span class="suffix">erātis</span>	2pl Pluperfect Active Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incēp<span class="suffix">erim</span>	1sg Perfect Active Subjunctive	3rd-i conjugation, incip<span class="suffix">iō</span>
+incēp<span class="suffix">erimus</span>	1pl Future Perfect Active Indicative<br/>1pl Perfect Active Subjunctive	3rd-i conjugation, incip<span class="suffix">iō</span>
+incēp<span class="suffix">erint</span>	3pl Future Perfect Active Indicative<br/>3pl Perfect Active Subjunctive	3rd-i conjugation, incip<span class="suffix">iō</span>
+incēp<span class="suffix">eris</span>	2sg Future Perfect Active Indicative<br/>2sg Perfect Active Subjunctive	3rd-i conjugation, incip<span class="suffix">iō</span>
+incēp<span class="suffix">erit</span>	3sg Future Perfect Active Indicative<br/>3sg Perfect Active Subjunctive	3rd-i conjugation, incip<span class="suffix">iō</span>
+incēp<span class="suffix">eritis</span>	2pl Future Perfect Active Indicative<br/>2pl Perfect Active Subjunctive	3rd-i conjugation, incip<span class="suffix">iō</span>
+incēp<span class="suffix">erō</span>	1sg Future Perfect Active Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incēp<span class="suffix">ērunt</span>	3pl Perfect Active Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incēp<span class="suffix">ī</span>	1sg Perfect Active Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incēp<span class="suffix">imus</span>	1pl Perfect Active Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incēp<span class="suffix">isse</span>	Perfect Active Infinitive	3rd-i conjugation, incip<span class="suffix">iō</span>
+incēp<span class="suffix">issem</span>	1sg Pluperfect Active Subjunctive	3rd-i conjugation, incip<span class="suffix">iō</span>
+incēp<span class="suffix">issēmus</span>	1pl Pluperfect Active Subjunctive	3rd-i conjugation, incip<span class="suffix">iō</span>
+incēp<span class="suffix">issent</span>	3pl Pluperfect Active Subjunctive	3rd-i conjugation, incip<span class="suffix">iō</span>
+incēp<span class="suffix">issēs</span>	2sg Pluperfect Active Subjunctive	3rd-i conjugation, incip<span class="suffix">iō</span>
+incēp<span class="suffix">isset</span>	3sg Pluperfect Active Subjunctive	3rd-i conjugation, incip<span class="suffix">iō</span>
+incēp<span class="suffix">issētis</span>	2pl Pluperfect Active Subjunctive	3rd-i conjugation, incip<span class="suffix">iō</span>
+incēp<span class="suffix">istī</span>	2sg Perfect Active Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incēp<span class="suffix">istis</span>	2pl Perfect Active Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incēp<span class="suffix">it</span>	3sg Perfect Active Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incept<span class="suffix">ī erāmus</span>	1pl Pluperfect Passive Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incept<span class="suffix">ī erant</span>	3pl Pluperfect Passive Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incept<span class="suffix">ī erātis</span>	2pl Pluperfect Passive Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incept<span class="suffix">ī erimus</span>	1pl Future Perfect Passive Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incept<span class="suffix">ī eritis</span>	2pl Future Perfect Passive Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incept<span class="suffix">ī erunt</span>	3pl Future Perfect Passive Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incept<span class="suffix">ī essēmus</span>	1pl Pluperfect Passive Subjunctive	3rd-i conjugation, incip<span class="suffix">iō</span>
+incept<span class="suffix">ī essent</span>	3pl Pluperfect Passive Subjunctive	3rd-i conjugation, incip<span class="suffix">iō</span>
+incept<span class="suffix">ī essētis</span>	2pl Pluperfect Passive Subjunctive	3rd-i conjugation, incip<span class="suffix">iō</span>
+incept<span class="suffix">ī estis</span>	2pl Perfect Passive Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incept<span class="suffix">ī sīmus</span>	1pl Perfect Passive Subjunctive	3rd-i conjugation, incip<span class="suffix">iō</span>
+incept<span class="suffix">ī sint</span>	3pl Perfect Passive Subjunctive	3rd-i conjugation, incip<span class="suffix">iō</span>
+incept<span class="suffix">ī sītis</span>	2pl Perfect Passive Subjunctive	3rd-i conjugation, incip<span class="suffix">iō</span>
+incept<span class="suffix">ī sumus</span>	1pl Perfect Passive Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incept<span class="suffix">ī sunt</span>	3pl Perfect Passive Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incept<span class="suffix">um īrī</span>	Future Passive Infinitive	3rd-i conjugation, incip<span class="suffix">iō</span>
+incept<span class="suffix">ūrus esse</span>	Future Active Infinitive	3rd-i conjugation, incip<span class="suffix">iō</span>
+incept<span class="suffix">ūrus</span>	Future Active Participle	3rd-i conjugation, incip<span class="suffix">iō</span>
+incept<span class="suffix">us eram</span>	1sg Pluperfect Passive Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incept<span class="suffix">us erās</span>	2sg Pluperfect Passive Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incept<span class="suffix">us erat</span>	3sg Pluperfect Passive Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incept<span class="suffix">us eris</span>	2sg Future Perfect Passive Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incept<span class="suffix">us erit</span>	3sg Future Perfect Passive Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incept<span class="suffix">us erō</span>	1sg Future Perfect Passive Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incept<span class="suffix">us es</span>	2sg Perfect Passive Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incept<span class="suffix">us esse</span>	Perfect Passive Infinitive	3rd-i conjugation, incip<span class="suffix">iō</span>
+incept<span class="suffix">us essem</span>	1sg Pluperfect Passive Subjunctive	3rd-i conjugation, incip<span class="suffix">iō</span>
+incept<span class="suffix">us essēs</span>	2sg Pluperfect Passive Subjunctive	3rd-i conjugation, incip<span class="suffix">iō</span>
+incept<span class="suffix">us esset</span>	3sg Pluperfect Passive Subjunctive	3rd-i conjugation, incip<span class="suffix">iō</span>
+incept<span class="suffix">us est</span>	3sg Perfect Passive Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incept<span class="suffix">us sim</span>	1sg Perfect Passive Subjunctive	3rd-i conjugation, incip<span class="suffix">iō</span>
+incept<span class="suffix">us sīs</span>	2sg Perfect Passive Subjunctive	3rd-i conjugation, incip<span class="suffix">iō</span>
+incept<span class="suffix">us sit</span>	3sg Perfect Passive Subjunctive	3rd-i conjugation, incip<span class="suffix">iō</span>
+incept<span class="suffix">us sum</span>	1sg Perfect Passive Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incept<span class="suffix">us</span>	Perfect Passive Participle	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">e</span>	Singular Active Imperative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">ere</span>	Present Active Infinitive<br/>Singular Passive Imperative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">erem</span>	1sg Imperfect Active Subjunctive	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">erēminī</span>	2pl Imperfect Passive Subjunctive	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">erēmur</span>	1pl Imperfect Passive Subjunctive	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">erēmus</span>	1pl Imperfect Active Subjunctive	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">erent</span>	3pl Imperfect Active Subjunctive	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">erentur</span>	3pl Imperfect Passive Subjunctive	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">erer</span>	1sg Imperfect Passive Subjunctive	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">erēris</span>	2sg Imperfect Passive Subjunctive	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">erēs</span>	2sg Imperfect Active Subjunctive	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">eret</span>	3sg Imperfect Active Subjunctive	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">erētis</span>	2pl Imperfect Active Subjunctive	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">erētur</span>	3sg Imperfect Passive Subjunctive	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">eris</span>	2sg Present Passive Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">ī</span>	Present Passive Infinitive	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">iam</span>	1sg Future Active Indicative<br/>1sg Present Active Subjunctive	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">iāminī</span>	2pl Present Passive Subjunctive	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">iāmur</span>	1pl Present Passive Subjunctive	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">iāmus</span>	1pl Present Active Subjunctive	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">iant</span>	3pl Present Active Subjunctive	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">iantur</span>	3pl Present Passive Subjunctive	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">iar</span>	1sg Future Passive Indicative<br/>1sg Present Passive Subjunctive	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">iāris</span>	2sg Present Passive Subjunctive	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">iās</span>	2sg Present Active Subjunctive	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">iat</span>	3sg Present Active Subjunctive	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">iātis</span>	2pl Present Active Subjunctive	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">iātur</span>	3sg Present Passive Subjunctive	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">iēbam</span>	1sg Imperfect Active Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">iēbāminī</span>	2pl Imperfect Passive Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">iēbāmur</span>	1pl Imperfect Passive Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">iēbāmus</span>	1pl Imperfect Active Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">iēbant</span>	3pl Imperfect Active Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">iēbantur</span>	3pl Imperfect Passive Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">iēbar</span>	1sg Imperfect Passive Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">iēbāris</span>	2sg Imperfect Passive Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">iēbās</span>	2sg Imperfect Active Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">iēbat</span>	3sg Imperfect Active Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">iēbātis</span>	2pl Imperfect Active Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">iēbātur</span>	3sg Imperfect Passive Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">iēminī</span>	2pl Future Passive Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">iēmur</span>	1pl Future Passive Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">iēmus</span>	1pl Future Active Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">iendī</span>	Gerund, Genitive case	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">iendō</span>	Gerund, Dative case<br/>Gerund, Ablative case	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">iendum</span>	Gerund, Accusative case	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">iendus</span>	Future Passive Participle	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">iēns</span>	Present Active Participle	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">ient</span>	3pl Future Active Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">ientur</span>	3pl Future Passive Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">iēris</span>	2sg Future Passive Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">iēs</span>	2sg Future Active Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">iet</span>	3sg Future Active Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">iētis</span>	2pl Future Active Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">iētur</span>	3sg Future Passive Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">iminī</span>	2pl Present Passive Indicative<br/>Plural Passive Imperative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">imur</span>	1pl Present Passive Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">imus</span>	1pl Present Active Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">iō</span>	1sg Present Active Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">ior</span>	1sg Present Passive Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">is</span>	2sg Present Active Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">it</span>	3sg Present Active Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">ite</span>	Plural Active Imperative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">itis</span>	2pl Present Active Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">itur</span>	3sg Present Passive Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">iunt</span>	3pl Present Active Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+incip<span class="suffix">iuntur</span>	3pl Present Passive Indicative	3rd-i conjugation, incip<span class="suffix">iō</span>
+mon<span class="suffix">ē</span>	Singular Active Imperative	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">eam</span>	1sg Present Active Subjunctive	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">eāminī</span>	2pl Present Passive Subjunctive	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">eāmur</span>	1pl Present Passive Subjunctive	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">eāmus</span>	1pl Present Active Subjunctive	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">eant</span>	3pl Present Active Subjunctive	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">eantur</span>	3pl Present Passive Subjunctive	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">ear</span>	1sg Present Passive Subjunctive	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">eāris</span>	2sg Present Passive Subjunctive	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">eās</span>	2sg Present Active Subjunctive	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">eat</span>	3sg Present Active Subjunctive	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">eātis</span>	2pl Present Active Subjunctive	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">eātur</span>	3sg Present Passive Subjunctive	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">ēbam</span>	1sg Imperfect Active Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">ēbāminī</span>	2pl Imperfect Passive Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">ēbāmur</span>	1pl Imperfect Passive Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">ēbāmus</span>	1pl Imperfect Active Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">ēbant</span>	3pl Imperfect Active Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">ēbantur</span>	3pl Imperfect Passive Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">ēbar</span>	1sg Imperfect Passive Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">ēbāris</span>	2sg Imperfect Passive Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">ēbās</span>	2sg Imperfect Active Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">ēbat</span>	3sg Imperfect Active Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">ēbātis</span>	2pl Imperfect Active Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">ēbātur</span>	3sg Imperfect Passive Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">ēberis</span>	2sg Future Passive Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">ēbiminī</span>	2pl Future Passive Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">ēbimur</span>	1pl Future Passive Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">ēbimus</span>	1pl Future Active Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">ēbis</span>	2sg Future Active Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">ēbit</span>	3sg Future Active Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">ēbitis</span>	2pl Future Active Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">ēbitur</span>	3sg Future Passive Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">ēbō</span>	1sg Future Active Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">ēbor</span>	1sg Future Passive Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">ēbunt</span>	3pl Future Active Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">ēbuntur</span>	3pl Future Passive Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">ēminī</span>	2pl Present Passive Indicative<br/>Plural Passive Imperative	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">ēmur</span>	1pl Present Passive Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">ēmus</span>	1pl Present Active Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">endī</span>	Gerund, Genitive case	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">endō</span>	Gerund, Dative case<br/>Gerund, Ablative case	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">endum</span>	Gerund, Accusative case	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">endus</span>	Future Passive Participle	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">ēns</span>	Present Active Participle	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">ent</span>	3pl Present Active Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">entur</span>	3pl Present Passive Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">eō</span>	1sg Present Active Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">eor</span>	1sg Present Passive Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">ēre</span>	Present Active Infinitive<br/>Singular Passive Imperative	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">ērem</span>	1sg Imperfect Active Subjunctive	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">ērēminī</span>	2pl Imperfect Passive Subjunctive	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">ērēmur</span>	1pl Imperfect Passive Subjunctive	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">ērēmus</span>	1pl Imperfect Active Subjunctive	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">ērent</span>	3pl Imperfect Active Subjunctive	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">ērentur</span>	3pl Imperfect Passive Subjunctive	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">ērer</span>	1sg Imperfect Passive Subjunctive	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">ērēris</span>	2sg Imperfect Passive Subjunctive	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">ērēs</span>	2sg Imperfect Active Subjunctive	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">ēret</span>	3sg Imperfect Active Subjunctive	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">ērētis</span>	2pl Imperfect Active Subjunctive	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">ērētur</span>	3sg Imperfect Passive Subjunctive	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">ērī</span>	Present Passive Infinitive	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">ēris</span>	2sg Present Passive Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">ēs</span>	2sg Present Active Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">et</span>	3sg Present Active Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">ēte</span>	Plural Active Imperative	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">ētis</span>	2pl Present Active Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+mon<span class="suffix">ētur</span>	3sg Present Passive Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+monit<span class="suffix">ī erāmus</span>	1pl Pluperfect Passive Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+monit<span class="suffix">ī erant</span>	3pl Pluperfect Passive Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+monit<span class="suffix">ī erātis</span>	2pl Pluperfect Passive Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+monit<span class="suffix">ī erimus</span>	1pl Future Perfect Passive Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+monit<span class="suffix">ī eritis</span>	2pl Future Perfect Passive Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+monit<span class="suffix">ī erunt</span>	3pl Future Perfect Passive Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+monit<span class="suffix">ī essēmus</span>	1pl Pluperfect Passive Subjunctive	2nd conjugation, mon<span class="suffix">eō</span>
+monit<span class="suffix">ī essent</span>	3pl Pluperfect Passive Subjunctive	2nd conjugation, mon<span class="suffix">eō</span>
+monit<span class="suffix">ī essētis</span>	2pl Pluperfect Passive Subjunctive	2nd conjugation, mon<span class="suffix">eō</span>
+monit<span class="suffix">ī estis</span>	2pl Perfect Passive Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+monit<span class="suffix">ī sīmus</span>	1pl Perfect Passive Subjunctive	2nd conjugation, mon<span class="suffix">eō</span>
+monit<span class="suffix">ī sint</span>	3pl Perfect Passive Subjunctive	2nd conjugation, mon<span class="suffix">eō</span>
+monit<span class="suffix">ī sītis</span>	2pl Perfect Passive Subjunctive	2nd conjugation, mon<span class="suffix">eō</span>
+monit<span class="suffix">ī sumus</span>	1pl Perfect Passive Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+monit<span class="suffix">ī sunt</span>	3pl Perfect Passive Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+monit<span class="suffix">um īrī</span>	Future Passive Infinitive	2nd conjugation, mon<span class="suffix">eō</span>
+monit<span class="suffix">ūrus esse</span>	Future Active Infinitive	2nd conjugation, mon<span class="suffix">eō</span>
+monit<span class="suffix">ūrus</span>	Future Active Participle	2nd conjugation, mon<span class="suffix">eō</span>
+monit<span class="suffix">us eram</span>	1sg Pluperfect Passive Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+monit<span class="suffix">us erās</span>	2sg Pluperfect Passive Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+monit<span class="suffix">us erat</span>	3sg Pluperfect Passive Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+monit<span class="suffix">us eris</span>	2sg Future Perfect Passive Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+monit<span class="suffix">us erit</span>	3sg Future Perfect Passive Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+monit<span class="suffix">us erō</span>	1sg Future Perfect Passive Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+monit<span class="suffix">us es</span>	2sg Perfect Passive Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+monit<span class="suffix">us esse</span>	Perfect Passive Infinitive	2nd conjugation, mon<span class="suffix">eō</span>
+monit<span class="suffix">us essem</span>	1sg Pluperfect Passive Subjunctive	2nd conjugation, mon<span class="suffix">eō</span>
+monit<span class="suffix">us essēs</span>	2sg Pluperfect Passive Subjunctive	2nd conjugation, mon<span class="suffix">eō</span>
+monit<span class="suffix">us esset</span>	3sg Pluperfect Passive Subjunctive	2nd conjugation, mon<span class="suffix">eō</span>
+monit<span class="suffix">us est</span>	3sg Perfect Passive Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+monit<span class="suffix">us sim</span>	1sg Perfect Passive Subjunctive	2nd conjugation, mon<span class="suffix">eō</span>
+monit<span class="suffix">us sīs</span>	2sg Perfect Passive Subjunctive	2nd conjugation, mon<span class="suffix">eō</span>
+monit<span class="suffix">us sit</span>	3sg Perfect Passive Subjunctive	2nd conjugation, mon<span class="suffix">eō</span>
+monit<span class="suffix">us sum</span>	1sg Perfect Passive Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+monit<span class="suffix">us</span>	Perfect Passive Participle	2nd conjugation, mon<span class="suffix">eō</span>
+monu<span class="suffix">eram</span>	1sg Pluperfect Active Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+monu<span class="suffix">erāmus</span>	1pl Pluperfect Active Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+monu<span class="suffix">erant</span>	3pl Pluperfect Active Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+monu<span class="suffix">erās</span>	2sg Pluperfect Active Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+monu<span class="suffix">erat</span>	3sg Pluperfect Active Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+monu<span class="suffix">erātis</span>	2pl Pluperfect Active Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+monu<span class="suffix">erim</span>	1sg Perfect Active Subjunctive	2nd conjugation, mon<span class="suffix">eō</span>
+monu<span class="suffix">erimus</span>	1pl Future Perfect Active Indicative<br/>1pl Perfect Active Subjunctive	2nd conjugation, mon<span class="suffix">eō</span>
+monu<span class="suffix">erint</span>	3pl Future Perfect Active Indicative<br/>3pl Perfect Active Subjunctive	2nd conjugation, mon<span class="suffix">eō</span>
+monu<span class="suffix">eris</span>	2sg Future Perfect Active Indicative<br/>2sg Perfect Active Subjunctive	2nd conjugation, mon<span class="suffix">eō</span>
+monu<span class="suffix">erit</span>	3sg Future Perfect Active Indicative<br/>3sg Perfect Active Subjunctive	2nd conjugation, mon<span class="suffix">eō</span>
+monu<span class="suffix">eritis</span>	2pl Future Perfect Active Indicative<br/>2pl Perfect Active Subjunctive	2nd conjugation, mon<span class="suffix">eō</span>
+monu<span class="suffix">erō</span>	1sg Future Perfect Active Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+monu<span class="suffix">ērunt</span>	3pl Perfect Active Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+monu<span class="suffix">ī</span>	1sg Perfect Active Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+monu<span class="suffix">imus</span>	1pl Perfect Active Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+monu<span class="suffix">isse</span>	Perfect Active Infinitive	2nd conjugation, mon<span class="suffix">eō</span>
+monu<span class="suffix">issem</span>	1sg Pluperfect Active Subjunctive	2nd conjugation, mon<span class="suffix">eō</span>
+monu<span class="suffix">issēmus</span>	1pl Pluperfect Active Subjunctive	2nd conjugation, mon<span class="suffix">eō</span>
+monu<span class="suffix">issent</span>	3pl Pluperfect Active Subjunctive	2nd conjugation, mon<span class="suffix">eō</span>
+monu<span class="suffix">issēs</span>	2sg Pluperfect Active Subjunctive	2nd conjugation, mon<span class="suffix">eō</span>
+monu<span class="suffix">isset</span>	3sg Pluperfect Active Subjunctive	2nd conjugation, mon<span class="suffix">eō</span>
+monu<span class="suffix">issētis</span>	2pl Pluperfect Active Subjunctive	2nd conjugation, mon<span class="suffix">eō</span>
+monu<span class="suffix">istī</span>	2sg Perfect Active Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+monu<span class="suffix">istis</span>	2pl Perfect Active Indicative	2nd conjugation, mon<span class="suffix">eō</span>
+monu<span class="suffix">it</span>	3sg Perfect Active Indicative	2nd conjugation, mon<span class="suffix">eō</span>
